@@ -1,7 +1,7 @@
 # classic-macintosh-think-pascal-starter-app
 A disk image (`Disk1.dsk`) containing the source code for creating an old-school, classic Macintosh application in THINK Pascal 4.
 
-<img src="./disk1-desktop.png" width="750" />
+![disk1-desktop](disk1-desktop.png)
 
 ### Instructions For Use
 
