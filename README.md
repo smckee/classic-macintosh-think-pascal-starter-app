@@ -1,6 +1,8 @@
 # classic-macintosh-think-pascal-starter-app
 A disk image (`Disk1.dsk`) containing the source code for creating an old-school, classic Macintosh application in THINK Pascal 4.
 
+<img src="./disk1-desktop.png" width="750" />
+
 ### Instructions For Use
 
 To view the Pascal source code, and to compile and run the classic Macintosh starter application, you will need to run a 680x0 Macintosh emulator such as [__Mini vMac__](https://www.gryphel.com/c/minivmac/).
